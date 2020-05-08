@@ -19,5 +19,3 @@ write in the terminal :
 ```terminal
 $ holidates Belgium
 ```
-# la-cli-nager-cli
-# la-cli-nager-cli
