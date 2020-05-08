@@ -1,0 +1,18 @@
+{
+  "name": "@julien1988/la-cli-nager-cli",
+  "version": "1.0.0",
+  "bin": {
+    "holidates": "./index.js"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "myNodeCLITool"
+  },
+  "author": "julien1988",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "country-list": "^2.2.0"
+  }
+}
