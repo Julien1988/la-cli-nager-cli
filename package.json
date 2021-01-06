@@ -12,7 +12,7 @@
   "author": "julien1988",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "country-list": "^2.2.0"
   }
 }
